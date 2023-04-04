@@ -1,0 +1,11 @@
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\bin\Debug\JobLinq.exe.config
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\bin\Debug\JobLinq.exe
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\bin\Debug\JobLinq.pdb
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.csproj.AssemblyReference.cache
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.csproj.SuggestedBindingRedirects.cache
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.frmMainPattern.resources
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.Properties.Resources.resources
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.csproj.GenerateResource.cache
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.csproj.CoreCompileInputs.cache
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.exe
+C:\UCC08\Projects\Grid-UCC08\Projects\JobLinq\obj\Debug\JobLinq.pdb
