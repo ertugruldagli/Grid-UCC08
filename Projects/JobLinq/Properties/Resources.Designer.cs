@@ -93,6 +93,16 @@ namespace JobLinq.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap profilelogo {
+            get {
+                object obj = ResourceManager.GetObject("profilelogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap tik {
             get {
                 object obj = ResourceManager.GetObject("tik", resourceCulture);
