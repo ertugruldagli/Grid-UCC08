@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace JobLinq
 {
-    public partial class frmMainPattern : Form
+    public partial class frmIsArayanSablonu : Form
     {
-        public frmMainPattern()
+        public frmIsArayanSablonu()
         {
             InitializeComponent();
         }
@@ -22,9 +22,6 @@ namespace JobLinq
             Application.Exit(); 
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

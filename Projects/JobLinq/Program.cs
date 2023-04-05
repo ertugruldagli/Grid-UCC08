@@ -16,7 +16,7 @@ namespace JobLinq
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMainPattern());
+            Application.Run(new frmIsArayanSablonu());
         }
     }
 }

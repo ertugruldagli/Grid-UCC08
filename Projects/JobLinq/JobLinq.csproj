@@ -46,16 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmMainPattern.cs">
+    <Compile Include="frmIsVerenSablonu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMainPattern.Designer.cs">
-      <DependentUpon>frmMainPattern.cs</DependentUpon>
+    <Compile Include="frmIsVerenSablonu.Designer.cs">
+      <DependentUpon>frmIsVerenSablonu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIsArayanSablonu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIsArayanSablonu.Designer.cs">
+      <DependentUpon>frmIsArayanSablonu.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmMainPattern.resx">
-      <DependentUpon>frmMainPattern.cs</DependentUpon>
+    <EmbeddedResource Include="frmIsArayanSablonu.resx">
+      <DependentUpon>frmIsArayanSablonu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIsVerenSablonu.resx">
+      <DependentUpon>frmIsVerenSablonu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
