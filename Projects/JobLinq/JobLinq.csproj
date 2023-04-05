@@ -95,6 +95,7 @@
     <None Include="Images\arama.png" />
     <None Include="Images\tik.png" />
     <None Include="Images\profilelogo.png" />
+    <None Include="Images\olusturma.png" />
     <Content Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
